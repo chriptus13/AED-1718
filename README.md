@@ -15,7 +15,7 @@ These exercises were developed as small projects in Algoritmos e Estruturas de D
 
 ## Dependencies
 
-* [JUnit4](https://junit.org/junit4)
+* [JUnit5](https://junit.org/junit5)
 
 ## Authors
 
