@@ -19,4 +19,4 @@ These exercises were developed as small projects in Algoritmos e Estruturas de D
 
 ## Authors
 
-These exercises were solvde with [Cláudio Bartolomeu](https://github.com/cbartolomeu).
+These exercises were solved with [Cláudio Bartolomeu](https://github.com/cbartolomeu).
